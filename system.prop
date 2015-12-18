@@ -22,7 +22,7 @@ ro.ril.enable.amr.wideband=1
 DEVICE_PROVISIONED=1
 persist.radio.rat_on=combine
 persist.radio.multisim.config=dsds
-ro.telephony.default_network=10
+ro.telephony.default_network=22,22
 ro.telephony.default_cdma_sub=0
 ro.ril.force_eri_from_xml=true
 
